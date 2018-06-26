@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IP Scanner</string>
+    <string name="refresh">refresh</string>
+    <string name="stop">stop</string>
+</resources>
